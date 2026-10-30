@@ -1,5 +1,5 @@
 
-const API_URL = "http://localhost:8000";
+const API_URL = "http://3.83.248.66:8000";
 
 const form = document.getElementById("urlForm");
 const result = document.getElementById("result");
